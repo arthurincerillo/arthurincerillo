@@ -1,0 +1,3 @@
+- 👋 Olá, meu nome é @arthurincerillo.
+- 👀 Estou interessado em aprender e programar novas linguagens.
+- 🌱 Entrei nesse universo recentemente.
