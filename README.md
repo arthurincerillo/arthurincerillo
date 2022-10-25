@@ -1,3 +1,6 @@
-- 👋 Olá, meu nome é @arthurincerillo.
-- 👀 Estou interessado em aprender e programar novas linguagens.
-- 🌱 Entrei nesse universo recentemente.
+primeiro arquivo HTML
+""
+<html>
+  <h1>Olá ;)</h1>
+</html>
+""
